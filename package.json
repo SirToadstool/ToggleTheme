@@ -1,6 +1,6 @@
 {
-  "name": "themeswitcher",
-  "displayName": "ThemeSwitcher",
+  "name": "moodswap",
+  "displayName": "MoodSwap",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -14,10 +14,14 @@
   "contributes": {
     "commands": [
       {
-        "command": "toggleTheme.toggleLightDark",
+        "command": "moodSwap.toggleLightDark",
         "title": "Toggle Light/Dark Theeme"
       }
-    ]
+    ],
+    "keybindings": {
+      "command": "moodSwap.toggleLightDark",
+      "key": "ctrl+alt+l"
+    }
   },
   "scripts": {
     "vscode:prepublish": "npm run compile",

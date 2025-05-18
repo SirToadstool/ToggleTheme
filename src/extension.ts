@@ -1,7 +1,7 @@
 import * as vscode from 'vscode';
 
 export function activate(context: vscode.ExtensionContext) {
-	const disposable = vscode.commands.registerCommand('toggleTheme.toggleLightDark', async () => {
+	const disposable = vscode.commands.registerCommand('moodSwap.toggleLightDark', async () => {
 		const configuration = vscode.workspace.getConfiguration();
 		const currentTheme = vscode.window.activeColorTheme;
 
