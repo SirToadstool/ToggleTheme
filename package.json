@@ -17,12 +17,6 @@
         "command": "toggleTheme.toggleLightDark",
         "title": "Toggle Light/Dark Theeme"
       }
-    ],
-    "keybindings": [
-      {
-        "command": "toggleTheme.toggleLightDark",
-        "key": "ctrl+shift+t"
-      }
     ]
   },
   "scripts": {
