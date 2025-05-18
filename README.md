@@ -31,7 +31,3 @@ _None at this time._
 ## Feedback & Contributions
 
 If you encounter issues or want to contribute, please open an issue or submit a pull request.
-
----
-
-**Enjoy toggling your themes with ease!**
