@@ -16,8 +16,6 @@ export function activate(context: vscode.ExtensionContext) {
 			newTheme,
 			vscode.ConfigurationTarget.Global
 		);
-
-		vscode.window.showInformationMessage(`Switched to ${newTheme}`);
 	});
 
 	context.subscriptions.push(disposable);

@@ -12,6 +12,7 @@ Toggle quickly between VS Code's Default Light+ and Default Dark+ themes
 
 1. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`).
 2. Run the command: **Toggle Light/Dark Theme**.
+3. Alternatively you can use the `Ctrl+Alt+L` or `Cmd+Alt+L` macro to toggle.
 3. Your theme will switch instantly!
 
 ## Extension Settings
