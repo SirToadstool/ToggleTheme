@@ -1,6 +1,6 @@
 # Theme Toggle Extension
 
-Toggle quickly between your favorite light and dark themes in Visual Studio Code with a simple command.
+Toggle quickly between VS Code's Default Light+ and Default Dark+ themes
 
 ## Features
 
@@ -31,7 +31,3 @@ _None at this time._
 ## Feedback & Contributions
 
 If you encounter issues or want to contribute, please open an issue or submit a pull request.
-
----
-
-**Enjoy toggling your themes with ease!**
